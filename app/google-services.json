@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "921216151097",
+    "firebase_url": "https://buildbiggerjoke-155106.firebaseio.com",
+    "project_id": "buildbiggerjoke-155106",
+    "storage_bucket": "buildbiggerjoke-155106.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921216151097:android:6423a27eb4353e78",
+        "android_client_info": {
+          "package_name": "com.example.nafeezq.buildbiggerjoke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921216151097-3kqr59h6ij7tcj24rnj8vmohmsfoiokb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC36k8objE2ZdO9p9wRbwbBhMDuP4_mtnw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
